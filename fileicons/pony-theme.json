@@ -1,0 +1,11 @@
+{
+	"$schema": "vscode://schemas/icon-theme",
+	"iconDefinitions": {
+		"_pony_file": {
+			"iconPath": "./images/Document_16x.png"
+		}
+	},
+	"languageIds": {
+		"pony": "_pony_file"
+	}
+}
